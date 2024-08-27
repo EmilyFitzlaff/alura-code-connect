@@ -4,3 +4,7 @@
     display: flex;
     gap: 16px;
 }
+
+.main {
+    flex-grow: 2;
+}
